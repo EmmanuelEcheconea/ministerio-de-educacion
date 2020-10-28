@@ -1,0 +1,21 @@
+.contenedorFecha{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+
+.textoFecha{
+    padding-left: 0.3em;
+    padding-bottom: 0.3em;
+    font-size: 24px;
+    font-weight: bold;
+    line-height: 26px;
+}
+
+@media (max-width: 768px) {
+    .textoFecha{
+        font-size: 18px;
+        line-height: 20px;
+    }
+  }

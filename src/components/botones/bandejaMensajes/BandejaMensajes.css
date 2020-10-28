@@ -1,0 +1,33 @@
+.content {
+  height: 46vh;
+  border-radius: 2px;
+  --background: #ffffff;
+  box-shadow: 3px 5px 5px rgb(54, 54, 54);
+}
+
+.content {
+  --background: hsla(219, 90%, 60%, 0.847);
+  height: 45vh;
+  box-shadow: 3px 5px 5px rgb(54, 54, 54);
+  border-radius: 2px;
+}
+
+.msg {
+  color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: -1.5vh;
+  font-size: 1em;
+}
+.divBandeja {
+  height: 75%;
+  width: auto;
+  color: white;
+  text-shadow: 2px 2px 2px rgb(0, 0, 0);
+}
+
+.itemCabeceraBandeja {
+  color: hsla(219, 90%, 60%, 0.847);
+  height: 12vh;
+}

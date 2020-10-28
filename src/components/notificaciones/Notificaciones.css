@@ -1,0 +1,23 @@
+.Notificacion {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  border-radius: 15px;
+  margin: 1ex 1ex 1.3ex 0ex;
+  box-shadow: 3px 5px 5px rgb(54, 54, 54);
+  background-color: rgba(45, 131, 230, 0.836);
+}
+.Titulo {
+  color: #ffffff;
+  margin-top: 0px;
+  font-size: 1.8em;
+}
+.divImagenNoticia {
+  left: 10px;
+  height: 8.5em;
+}
+.divNotif {
+  margin-bottom: 7vh;
+  background-color: rgb(187, 209, 234);
+}

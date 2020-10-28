@@ -1,0 +1,34 @@
+[
+   {
+      "id": 1,
+      "nombre": "Mail",
+      "tipo": "link",
+      "contenidoUrl": "https://mail.google.com/",
+      "icon": "assets/imagenes/Gmail.png",
+      "color": "#000080"
+   },
+   {
+      "id": 2,
+      "nombre": "Configuracion",
+      "tipo": "page",
+      "contenidoUrl": "/settings",
+      "icon": "assets/imagenes/Configuracion.png",
+      "color": "#000080"
+   },
+   {
+      "id": 3,
+      "nombre": "Navegador",
+      "tipo": "link",
+      "contenidoUrl": "http://google.com/",
+      "icon": "assets/imagenes/Navegador.png",
+      "color": "#000080"
+   },
+   {
+      "id": 4,
+      "nombre": "chatBot",
+      "tipo": "page",
+      "contenidoUrl": "/bot",
+      "icon": "assets/imagenes/chatbot.png",
+      "color": "#000080"
+   }
+]

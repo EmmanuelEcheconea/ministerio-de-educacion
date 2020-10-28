@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "nombre": "Facebook",
+        "tipo": "app",
+        "contenidoUrl": "com.facebook.lite",
+        "icon": "assets/imagenes/facebook.png",
+        "color": "#000080"
+    },
+    {
+        "id": 2,
+        "nombre": "Youtube",
+        "tipo": "link",
+        "contenidoUrl": "http://youtube.com/",
+        "icon": "assets/imagenes/Circle-icons-browser.svg",
+        "color": "#FF0000"
+    },
+    {
+        "id": 3,
+        "nombre": "Google",
+        "tipo": "link",
+        "contenidoUrl": "http://google.com/",
+        "icon": "assets/imagenes/Circle-icons-browser.svg",
+        "color": "#00FF15"
+    },
+    {
+        "id": 4,
+        "nombre": "Youtube",
+        "tipo": "link",
+        "contenidoUrl": "http://youtube.com/",
+        "icon": "assets/imagenes/Circle-icons-browser.svg",
+        "color": "#FF0000"
+    },
+    {
+        "id": 5,
+        "nombre": "Chat",
+        "tipo": "link",
+        "contenidoUrl": "http://youtube.com/",
+        "icon": "assets/imagenes/chat.png",
+        "color": "#000080"
+    }
+]

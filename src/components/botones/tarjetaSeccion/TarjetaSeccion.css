@@ -1,0 +1,20 @@
+.contenedorDeBotonesMenu {
+  background-color: rgba(128, 128, 128, 0.452);
+  height: 43vh;
+  box-shadow: 3px 5px 5px rgb(54, 54, 54);
+  border-radius: 2px;
+}
+
+.contenedorDeBotonesMenu .boton {
+  margin-left: 0em;
+  font-size: 1.5ex;
+  margin-right: 0em;
+  margin-bottom: 0em;
+}
+
+.imagenDentroContenedor {
+  height: 80%;
+  width: 100%;
+  margin: auto;
+  display: block;
+}

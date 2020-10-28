@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "destinatario":1,
+        "titulo":"Cambio en fechas de cobro",
+        "descripcion":"A partir del dia 25 de octubre del presente año la fecha de cobro se pasara ",
+        "url":"https://www.telam.com.ar/notas/202009/514521-gobierno-develo-finalmente-principales-variables-contempladas-presupuesto-2021.html",
+        "imagen":"assets/imagenes/escudo-nacional.png"
+    },
+    {
+        "id": 2,
+        "destinatario":1,
+        "titulo":"Cobro del IFE",
+        "descripcion":"El Ingreso Familiar de Emergencia (IFE) será abonado hoy a los beneficiarios y beneficiarias con terminación de Documento Nacional de Identidad (DNI) en 8 y que hayan informado una cuenta bancaria propia para que se les pueda depositar los $ 10.000.",
+        "url":"https://www.telam.com.ar/notas/202009/515064-coronavirus-ingreso-familiar-jubilados.html",
+        "imagen":"assets/imagenes/escudo-nacional.png"
+    },
+    {
+        "id": 3,
+        "destinatario":1,
+        "titulo":"Este jueves cobrarán los jubilados cuyo haber no supere los $20.374 y con DNi finalizado en 7",
+        "descripcion":"Los jubilados y pensionados con Documento Nacional de Identidad (DNI) finalizado en 7, y cuyo haber no supere los $20.374, cobrarán este jueves en las sucursales bancarias correspondientes, por ventanilla.",
+        "url":"https://www.telam.com.ar/notas/202009/515064-coronavirus-ingreso-familiar-jubilados.html",
+        "imagen":"assets/imagenes/escudo-nacional.png"
+    },
+    {
+        "id": 4,
+        "destinatario":1,
+        "titulo":"El  peso toma fuerza y ya supera el valor del dolar",
+        "descripcion":"La moneda nacional repuntó en la mañana de esta jornada superando asi el valor del dolar y llegando un valor similar al Euro",
+        "url":"https://em.wattpad.com/a030a2f1e5f19ad50a8547e5711cac6a258eb508/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f6645743139624c6c3433633645773d3d2d313135362e313436626633363765636665386266353333303636393034303538352e6a7067?s=fit&w=720&h=720",
+        "imagen":"assets/imagenes/escudo-nacional.png"
+    },
+    {
+        "id": 5,
+        "destinatario":1,
+        "titulo":"El  peso toma fuerza y ya supera el valor del dolar",
+        "descripcion":"La moneda nacional repuntó en la mañana de esta jornada superando asi el valor del dolar y llegando un valor similar al Euro",
+        "url":"https://em.wattpad.com/a030a2f1e5f19ad50a8547e5711cac6a258eb508/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f6645743139624c6c3433633645773d3d2d313135362e313436626633363765636665386266353333303636393034303538352e6a7067?s=fit&w=720&h=720",
+        "imagen":"assets/imagenes/escudo-nacional.png"
+    },
+    {
+        "id": 6,
+        "destinatario":1,
+        "titulo":"El  peso toma fuerza y ya supera el valor del dolar",
+        "descripcion":"La moneda nacional repuntó en la mañana de esta jornada superando asi el valor del dolar y llegando un valor similar al Euro",
+        "url":"https://em.wattpad.com/a030a2f1e5f19ad50a8547e5711cac6a258eb508/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f6645743139624c6c3433633645773d3d2d313135362e313436626633363765636665386266353333303636393034303538352e6a7067?s=fit&w=720&h=720",
+        "imagen":"assets/imagenes/escudo-nacional.png"
+    },
+    {
+        "id": 7,
+        "destinatario":1,
+        "titulo":"El  peso toma fuerza",
+        "descripcion":"La moneda nacional repuntó en la mañana",
+        "url":"https://em.wattpad.com/a030a2f1e5f19ad50a8547e5711cac6a258eb508/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f6645743139624c6c3433633645773d3d2d313135362e313436626633363765636665386266353333303636393034303538352e6a7067?s=fit&w=720&h=720",
+        "imagen":"assets/imagenes/escudo-nacional.png"
+    }
+]

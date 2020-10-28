@@ -1,0 +1,10 @@
+.claseColumna {
+  right: 1vh;
+  bottom: 0.5vh;
+  position: absolute;
+}
+.claseColumnaIzq {
+  left: 0vh;
+  bottom: 3vh;
+  position: absolute;
+}

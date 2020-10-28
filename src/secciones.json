@@ -1,0 +1,179 @@
+[
+    {
+        "id": 1,
+        "seccion": "APN",
+        "ruta": "/APN",
+        "icon": "assets/imagenes/logo-ministeriPng.png",
+        "contenidos": [
+            {
+                "id": 1,
+                "nombre": "Mi Argentina",
+                "tipo": "link",
+                "contenidoUrl": "https://www.argentina.gob.ar/miargentina",
+                "icon": "assets/imagenes/logo-miArgentina.png",
+                "color": "#000080"
+            },
+            {
+                "id": 2,
+                "nombre": "Atención a mujeres",
+                "tipo": "link",
+                "contenidoUrl": "https://www.buenosaires.gob.ar/desarrollohumanoyhabitat/0800-666-8537-atencion-victimas-de-violencia-de-genero",
+                "icon": "assets/imagenes/logo-144.webp",
+                "color": "#800080"
+            },
+            {
+                "id": 3,
+                "nombre": "Precios Cuidados",
+                "tipo": "link",
+                "contenidoUrl": "https://www.argentina.gob.ar/precios-cuidados",
+                "icon": "assets/imagenes/logo-preciosCuidados.webp",
+                "color": "#000080"
+            },
+            {
+                "id": 4,
+                "nombre": "Argentina Salud",
+                "tipo": "link",
+                "contenidoUrl": "https://www.argentina.gob.ar/salud/",
+                "icon": "assets/imagenes/logo-argentinaSalud.webp",
+                "color": "#000080"
+            },
+            {
+                "id": 5,
+                "nombre": "Cuidar COVID-19",
+                "tipo": "link",
+                "contenidoUrl": "https://www.argentina.gob.ar/circular",
+                "icon": "assets/imagenes/logo-cuidar.webp",
+                "color": "#000080"
+            }
+            ,
+            {
+                "id": 6,
+                "nombre": "Mi Anses",
+                "tipo": "link",
+                "contenidoUrl": "https://www.anses.gob.ar/informacion/mi-anses",
+                "icon": "assets/imagenes/logo-MiAnses.webp",
+                "color": "#000080"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "seccion": "Apps de Terceros",
+        "ruta": "/AppsTerceros",
+        "icon": "assets/imagenes/Aplicaciones.png",
+        "contenidos": [
+            {
+                "id": 1,
+                "nombre": "Facebook",
+                "tipo": "app",
+                "contenidoUrl": "com.facebook.lite",
+                "icon": "assets/imagenes/Messenger.png",
+                "color": "#000080"
+            },
+            {
+                "id": 2,
+                "nombre": "Youtube",
+                "tipo": "link",
+                "contenidoUrl": "http://youtube.com/",
+                "icon": "assets/imagenes/YouTube.png",
+                "color": "#FF0000"
+            },
+            {
+                "id": 3,
+                "nombre": "Twitter",
+                "tipo": "link",
+                "contenidoUrl": "https://twitter.com/",
+                "icon": "assets/imagenes/Twitter.png",
+                "color": "#FF0000"
+            },
+            {
+                "id": 4,
+                "nombre": "Pinterest",
+                "tipo": "link",
+                "contenidoUrl": "https://ar.pinterest.com/",
+                "icon": "assets/imagenes/Pinterest.png",
+                "color": "#FF0000"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "seccion": "Servicios Google",
+        "ruta": "/AppsGoogle",
+        "icon": "assets/imagenes/Google.png",
+        "contenidos": [
+            {
+                "id": 1,
+                "nombre": "Gmail",
+                "tipo": "link",
+                "contenidoUrl": "https://mail.google.com/",
+                "icon": "assets/imagenes/Gmail.png",
+                "color": "#FF0000"
+            },
+            {
+                "id": 2,
+                "nombre": "Youtube",
+                "tipo": "link",
+                "contenidoUrl": "http://youtube.com/",
+                "icon": "assets/imagenes/YouTube.png",
+                "color": "#FF0000"
+            },
+            {
+                "id": 3,
+                "nombre": "Google Maps",
+                "tipo": "link",
+                "contenidoUrl": "https://www.google.com/maps",
+                "icon": "assets/imagenes/GoogleMaps.png",
+                "color": "#FF0000"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "seccion": "Herramientas",
+        "ruta": "/AppsHerramientas",
+        "icon": "assets/imagenes/Herramientas.png",
+        "contenidos": [
+            {
+                "id": 1,
+                "nombre": "Calculadora",
+                "tipo": "app",
+                "contenidoUrl": "com.google.android.calculator",
+                "icon": "assets/imagenes/Calculator.png",
+                "color": "#000080"
+            },
+            {
+                "id": 2,
+                "nombre": "Calendario",
+                "tipo": "link",
+                "contenidoUrl": "https://www.calendario-365.es/calendario-2020.html",
+                "icon": "assets/imagenes/calendario.png",
+                "color": "#FF0000"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "seccion": "Juegos",
+        "ruta": "/AppsJuegos",
+        "icon": "assets/imagenes/Juegos.png",
+        "contenidos": [
+            {
+                "id": 1,
+                "nombre": "Ajedrez",
+                "tipo": "link",
+                "contenidoUrl": "https://www.chess.com/es/play/computer",
+                "icon": "assets/imagenes/chess.png",
+                "color": "#000080"
+            },
+            {
+                "id": 2,
+                "nombre": "Sudoku",
+                "tipo": "link",
+                "contenidoUrl": "https://www.sudoku-online.org/",
+                "icon": "assets/imagenes/sudoku.png",
+                "color": "#FF0000"
+            }
+        ]
+    }
+]

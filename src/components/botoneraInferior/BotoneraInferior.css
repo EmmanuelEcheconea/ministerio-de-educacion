@@ -1,0 +1,35 @@
+.ColumnCorta {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  background-color: rgba(45, 131, 230, 0.836);
+  box-shadow: 3px 5px 5px rgb(54, 54, 54);
+  border-radius: 2px;
+  margin: 0ex 0ex 1.5ex 1.12ex;
+  max-width: 10%;
+  min-width: 10%;
+}
+.estiloBotonInferior {
+  width: 80%;
+  height: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.estiloBotonInferior > img {
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.divImagen {
+  width: 100%;
+  height: 15vh;
+}
+.RowBotoneraInferior {
+  max-height: 43vh;
+  height: 43vh;
+  min-height: 30vh;
+}

@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "nombre": "WiFi",
+        "path": "wifi",
+        "foto":"assets/imagenes/logo-tools.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "Volumen",
+        "path": "sound",
+        "foto":"assets/imagenes/chat.png"
+    },
+    {
+        "id": 3,
+        "nombre": "Optimizar bateria",
+        "path": "battery_optimization",
+        "foto":"assets/imagenes/chess.png"
+    },
+    {
+        "id": 4,
+        "nombre": "Almacenamiento",
+        "path": "storage",
+        "foto":"assets/imagenes/Herramientas.png"
+    },
+    {
+        "id": 5,
+        "nombre": "Configuraciones (ver q permite)",
+        "path": "settings",
+        "foto":"assets/imagenes/config.png"
+    }
+]

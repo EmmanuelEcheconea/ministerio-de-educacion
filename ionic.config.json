@@ -1,0 +1,7 @@
+{
+  "name": "enacom-mas-simple",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

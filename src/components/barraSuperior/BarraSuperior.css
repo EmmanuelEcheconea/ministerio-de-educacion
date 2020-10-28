@@ -1,0 +1,33 @@
+.barraSuperior {
+    height: 10vh !important;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.barraSuperior > md{
+    height: 10vh !important;
+    /* width: 100%;
+    display: flex;
+    justify-content: space-between; */
+}
+
+.barraSuperior > ion-grid{
+    padding-top: 0.4rem;
+    padding-bottom: 0;
+}
+
+.logo{
+    height: 4em;
+}
+
+.horaFecha{
+    display: flex;
+}
+
+.configuracion{
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+    flex-basis: 33%
+}

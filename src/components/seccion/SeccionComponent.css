@@ -1,0 +1,9 @@
+.Slide {
+  height: 90vh;
+  margin: 0.25em;
+  min-width: 15em;
+  max-width: 15em;
+  border-radius: 2px;
+  box-shadow: 3px 5px 5px rgb(54, 54, 54);
+  background-color: rgba(128, 128, 128, 0.452);
+}
